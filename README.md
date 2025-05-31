@@ -37,3 +37,8 @@ EDA involved the exploring of the data to answer some questions about the data s
 
 ### Data Analysis
 This is where we include some lines of code or queries or even some of the DAX expressions used during the analysis 
+
+``` SQL
+SELECT * FROM Employee
+INSERT INTO Employee
+```
