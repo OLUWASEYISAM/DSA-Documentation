@@ -43,3 +43,4 @@ SELECT * FROM Employee
 INSERT INTO Employee
 ```
 ### Project Motivation
+![view](https://github.com/user-attachments/assets/b7ecf8c0-0be4-41af-b492-c50220ed3dad)
