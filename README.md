@@ -42,3 +42,4 @@ This is where we include some lines of code or queries or even some of the DAX e
 SELECT * FROM Employee
 INSERT INTO Employee
 ```
+### Project Motivation
