@@ -1,8 +1,8 @@
-# DSA-Documentation
+# DSA CAPSTONE PROJECT Kultra Mega Stores Inventory
 
-Data Analysis course with Digital Skillup Africa, Incubator Hub
+Capstone Project for Data Analysis course with Digital Skillup Africa, Incubator Hub
 
-I have learnt a quite number of things ranging from MS Excel to SQL, then to Power BI
+Project will be executed using SQL to get insights to the data given for the project.
 
 ## PROJECT TOPIC:
 
