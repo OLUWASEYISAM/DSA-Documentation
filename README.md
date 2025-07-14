@@ -4,17 +4,20 @@ Capstone Project for Data Analysis course with Digital Skillup Africa, Incubator
 
 Project will be executed using SQL to get insights to the data given for the project.
 
-## PROJECT TOPIC:
+## PROJECT TOPIC: BUSINESS INTELLIGENCE ANALYSIS OF ORDER DATA IN KULTRA MEGA STORES (KMS) (2009 - 2012)
 
-### Project Overview:
+### Project Overview: 
+KultraMega Stores (KMS), headquartered in Lagos, specialises in Office supplies and furniture. Its customer base includes individual consumers, small businesses (retail), and large corporate clients (wholesale) across Lagos, Nigeria. 
+As a Business Intelligence Analyst to support the Abuja division of KMS. The Business Manager has shared an Excel file containing order data from 2009 to 
+2012 and has requested that I analyze the data and present my key insights and findings. 
 
 ### Table of Content
 
 ### Data Sources
-The Primary source of data here is 
+Data used for this project is a Primary data as it was shared directly from the Business Manager. 
 
 ### Tools Used
-- MS Excel for Data Cleaning [Download Here](https://www.microsoft.com)
+- Microsoft Excel [Download Here](https://canvas.instructure.com/courses/11955369/files/folder/DSA%20Capstone%20Project%20Files?preview=302721273)
   - For Data Collection
   - For Data cleaning
     1. By Data Manipulation
