@@ -20,8 +20,8 @@ Data used for this project is a Primary data as it was shared directly from the 
 - Microsoft Excel [Download Data Here](https://canvas.instructure.com/courses/11955369/files/folder/DSA%20Capstone%20Project%20Files?preview=302721273)
   - For Data Collection
   - For Data cleaning
-    1. By Data Manipulation
-    2. By Data Munching
+    1. Checking for Missing data using COUNTBLANK functions and Filters: Product base Margin column has 63 empty cells/Missing data
+    2. Handling Missing data: Missing data under the Product base Margin were handled using backward fill. 
 - SQL Server (For Querying and Analysis)
 - Power BI [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494&msockid=2ad5b310958661f015f5a6cb94846071)(For creating a report)
 - MS Power Point (For Presentation)
