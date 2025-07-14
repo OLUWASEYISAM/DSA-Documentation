@@ -1,4 +1,4 @@
-# DSA CAPSTONE PROJECT Kultra Mega Stores Inventory
+# DSA CAPSTONE PROJECT: Kultra Mega Stores Inventory
 
 Capstone Project for Data Analysis course with Digital Skillup Africa, Incubator Hub
 
