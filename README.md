@@ -17,7 +17,7 @@ As a Business Intelligence Analyst to support the Abuja division of KMS. The Bus
 Data used for this project is a Primary data as it was shared directly from the Business Manager. 
 
 ### Tools Used
-- Microsoft Excel [Download Here](https://canvas.instructure.com/courses/11955369/files/folder/DSA%20Capstone%20Project%20Files?preview=302721273)
+- Microsoft Excel [Download Data Here](https://canvas.instructure.com/courses/11955369/files/folder/DSA%20Capstone%20Project%20Files?preview=302721273)
   - For Data Collection
   - For Data cleaning
     1. By Data Manipulation
