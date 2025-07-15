@@ -23,7 +23,6 @@ Data used for this project is a Primary data as it was shared directly from the 
     1. By Manipulation 
     2. By Data Munching.  
 - SQL Server (For Querying and Analysis)
-- Power BI [Download Here](https://www.micro
 - MS Power Point (For Presentation)
 
 ### Data Cleaning and Preparation
