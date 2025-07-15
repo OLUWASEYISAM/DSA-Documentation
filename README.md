@@ -206,6 +206,6 @@ where [Ship Mode] IN ('Delivery Truck', 'Express Air')
 GROUP BY [Ship Mode]
 ```
 ### Project Material
-![Download Data here][KMS Sql Case Study.xlsx](https://github.com/user-attachments/files/21230916/KMS.Sql.Case.Study.xlsx)
+[Download Data here][KMS Sql Case Study.xlsx](https://github.com/user-attachments/files/21230916/KMS.Sql.Case.Study.xlsx)
 
 
