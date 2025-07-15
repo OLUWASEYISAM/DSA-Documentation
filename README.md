@@ -197,4 +197,5 @@ where [Ship Mode] IN ('Delivery Truck', 'Express Air')
 GROUP BY [Ship Mode]
 ```
 ### Project Motivation
-![view](https://github.com/user-attachments/assets/b7ecf8c0-0be4-41af-b492-c50220ed3dad)
+![view][DSA-SQL For Data Analysis.pdf](https://github.com/user-attachments/files/21230695/DSA-SQL.For.Data.Analysis.pdf)
+
