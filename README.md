@@ -38,9 +38,9 @@ EDA involved the exploring of the data to answer some questions about the data s
 #### Case Scenario 1
 1. Which product category had the highest sales? 
 Ans: Technology category had the highes sales with a Total sales of 5984248.18.
-- Technology:       5984248.18199999
-- Furniture:	      5178590.54199999
-- Office Supplies:	3752762.09999999
+  - Technology:       5984248.18199999
+  - Furniture:	      5178590.54199999
+  - Office Supplies:	3752762.09999999
 
 2. What are the Top 3 and Bottom 3 regions in terms of sales? 
 - Top 3 Regios in term of Sales:
