@@ -12,8 +12,17 @@ As a Business Intelligence Analyst to support the Abuja division of KMS. The Bus
 2012 and has requested that I analyze the data and present my key insights and findings. 
 
 ### Table of Content
-
-### Data Sources
+1. Project Topic
+2. Project Overview
+3. Data Source
+4. Tools used
+5. Data Cleaning and Preparation
+6. Exploratory Data Analysis (EDA)
+ - Case Scenario 1
+ - Case Scenario 2
+7. Data Analysis (SQL Queries)
+ 
+### Data Source
 Data used for this project is a Primary data as it was shared directly from the Business Manager. 
 
 ### Tools Used
